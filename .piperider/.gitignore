@@ -1,7 +1,7 @@
 **.log
 __pycache__/
 logs/
-outputs/
+# outputs/
 reports/
 comparisons/
 credentials.yml
