@@ -1,4 +1,4 @@
-.piperider
+# .piperider
 .user.yml
 *.duckdb
 venv/
